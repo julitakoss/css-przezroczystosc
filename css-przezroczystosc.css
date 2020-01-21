@@ -1,0 +1,42 @@
+.parent-square{
+    height: 600px;
+    width: 300px;
+    position: relative;  
+    background-color:lightgoldenrodyellow ;
+  }
+.square1{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 90px;
+    top: 30px;
+    opacity: 1;
+    background-color: black; 
+}
+.square2{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 90px;
+    top: 30px;
+    opacity: 0.75;
+    background-color:black;
+}
+.square3{   
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 90px;
+    top: 30px;
+    opacity: 0.5;
+    background-color: black;
+}
+.square4{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 90px;
+    top: 30px;
+    opacity: 0.3;
+    background-color:black;
+}
